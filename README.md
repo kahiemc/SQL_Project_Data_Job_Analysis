@@ -301,4 +301,4 @@ Many specialized skills such as Pyspark, Bitbucket and Swift, prove that experie
 Cloud tools and cloud based databases show up as some of the most in-deamnd and salary rewarding job skills amongst Data Analysts. SQL also continuously shows up as a must have in Data Analysts  roles as the highest demanded skill in the job market. 
 
 ### Closing Thoughts
-This project dramatically enhanced my SQL skills abd gave valuable insights about the state of the Data Analyst job market. These insights have potential to act as a guide for prioritizing skills development and job search. This shows the importance of coninuously learning and adapting in the very competitve job market of data analytics. 
+This project dramatically enhanced my SQL skills and gave valuable insights about the state of the Data Analyst job market. These insights have potential to act as a guide for prioritizing skills development and job search. This shows the importance of coninuously learning and adapting in the very competitve job market of data analytics. 

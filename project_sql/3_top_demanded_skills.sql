@@ -7,8 +7,7 @@ Question: What are the most in-demand skills for my role?
 providing insights into most valuable skills for analysts
 */
 
-
-SELECT  
+SELECT 
     skills,
     COUNT(skills_job_dim.job_id) AS demand_count
 FROM job_postings_fact
